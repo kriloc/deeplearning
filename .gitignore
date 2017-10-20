@@ -3,6 +3,7 @@
 *.so
 *.egg
 *.egg-info
+*.dat
 dist
 build
 .ipynb_checkpoints
